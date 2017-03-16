@@ -1,5 +1,5 @@
-# Ui-curl
+# Ui-curl  Curul + QT + UI downloader file.
 install:
 $ qmake
 $ make
-    Curul + QT + UI downloader file.
+   
